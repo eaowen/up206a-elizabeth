@@ -15,9 +15,9 @@ My goals for this course are primarily to learn Python. Coding has always felt e
 
 Topic |Idea
 ------|----
-COVID-19/Public Health| Overlaying Business Improvement Disticts (BIDs) with return-to-work data
-\*COVID-19/Public Health | Access to parks, street closures and COVID-19 rates, transit dependency
-\*Food Studies | Mapping LA County grocerry stores, obesity and health problem rates
-Housing | Mapping ADU permit applications/units built in City of L.A.
-\*Public Health | Mapping L.A. County residential and community facilities for people with disabilities, evaluating accessibility and resources
-\*Public Safety | Overlaying crime data with something (perhaps CPTED design principles, another topic).
+COVID-19/Public Health    | Overlaying Business Improvement Disticts (BIDs) with return-to-work data
+\*COVID-19/Public Health  | Access to parks, street closures and COVID-19 rates, transit dependency
+\*Food Studies            | Mapping LA County grocerry stores, obesity and health problem rates
+Housing                   | Mapping ADU permit applications/units built in City of L.A.
+\*Public Health           | Mapping L.A. County residential and community facilities for people with disabilities, evaluating accessibility and resources
+\*Public Safety           | Overlaying crime data with something (perhaps CPTED design principles, another topic).
