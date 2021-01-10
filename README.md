@@ -14,10 +14,11 @@ My goals for this course are primarily to learn Python. Coding has always felt e
 
 Topic |Idea
 ------|----
-Affordable Housing | Mapping non-profit housing development in the City of L.A.
-Housing | Mapping ADU permit applications/units built in City of L.A.
-COVID-19 | Overlaying Business Improvement Disticts (BIDs) with return-to-work data
-Housing/Community Development | Overlaying newly constructed housing units with transit priority areas and seeing displacement/gentrification
-COVID-19 | Access to parks, street closures and COVID-19 rates, transit dependency
+COVID-19/Public Health | Overlaying Business Improvement Disticts (BIDs) with return-to-work data
+COVID-19/Public Health | Access to parks, street closures and COVID-19 rates, transit dependency
 Food Studies | Mapping LA County grocerry stores, obesity and health problem rates
+Housing | Mapping non-profit housing development in the City of L.A.
+Housing | Mapping ADU permit applications/units built in City of L.A.
+Housing/Community Development | Overlaying newly constructed housing units with transit priority areas and seeing displacement/gentrification
+Public Health | Mapping L.A. County residential and community facilities for people with disabilities, evaluating accessibility and resources
 Public Safety | Overlaying crime data with something (perhaps CPTED design principles, another topic).
