@@ -10,6 +10,8 @@ My interests within planning primarily lie within housing (transit-oriented deve
 
 My goals for this course are primarily to learn Python. Coding has always felt extremely intimidating to me! I have prior experience using Esri products (ArcGIS Pro, StoryMaps, WebApp Builder), however I would like to be less dependent on expensive software licenses.
 
+[I am most interested in project ideas relating to public health and safety in the U.S.]
+
 **Some group project ideas for this course, with ideas I am particularly interested in containing an \*, include:**
 
 
