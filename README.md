@@ -9,3 +9,9 @@ My name is Elizabeth Owen and I am a first year MURP student. My concentration i
 My interests within planning primarily lie within housing (transit-oriented development, ADUs/emerging housing trends), however I also have interests in regional transportation planning, universal design, tactical urbanism, and public health-oriented planning/design.
 
 My goals for this course are primarily to learn Python. Coding has always felt extremely intimidating to me! I have prior experience using Esri products (ArcGIS Pro, StoryMaps, WebApp Builder), however I would like to be less dependent on expensive software licenses.
+
+**Some group project ideas for this course include:**
+Topic | Idea
+------------
+Affordable Housing | Mapping non-profit housing development in the City of L.A.
+-------------------------------------------------------------------------------
